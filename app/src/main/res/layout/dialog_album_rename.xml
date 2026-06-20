@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editAlbumName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="输入相册名称"
+        android:maxLines="1"
+        android:inputType="textCapSentences"
+        android:maxLength="20" />
+
+</LinearLayout>
+
