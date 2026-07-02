@@ -3,7 +3,7 @@
 健康运动是一款原生 Android 健康社交应用，围绕运动记录、运动计划、饮食记录、好友互动、群聊、动态、相册和个人主页管理展开。项目使用 Java 编写，数据与即时通信能力主要基于 LeanCloud，界面采用 AndroidX、Material Components 和传统 XML 布局实现。
 
 ## 效果展示
-<img width="720" height="1600" alt="d2999e5ac7313c9310499801ff2633fd" src="https://github.com/user-attachments/assets/5c0e3f5b-c21b-45a0-a3e8-86e1b28cebd2" />
+<img width="360" height="800" alt="d2999e5ac7313c9310499801ff2633fd" src="https://github.com/user-attachments/assets/5c0e3f5b-c21b-45a0-a3e8-86e1b28cebd2" />
 首页运动与可视化图表查看
 
 <img width="720" height="1600" alt="f5162ede0603ff21d67c68396c46ead7" src="https://github.com/user-attachments/assets/e5902126-64cd-4751-953e-4f5e75837aea" />
