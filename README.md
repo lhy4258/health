@@ -3,14 +3,14 @@
 健康运动是一款原生 Android 健康社交应用，围绕运动记录、运动计划、饮食记录、好友互动、群聊、动态、相册和个人主页管理展开。项目使用 Java 编写，数据与即时通信能力主要基于 LeanCloud，界面采用 AndroidX、Material Components 和传统 XML 布局实现。
 
 ## 效果展示
-<img width="1440" height="3200" alt="d2999e5ac7313c9310499801ff2633fd" src="https://github.com/user-attachments/assets/5c0e3f5b-c21b-45a0-a3e8-86e1b28cebd2" />
+<img width="720" height="1600" alt="d2999e5ac7313c9310499801ff2633fd" src="https://github.com/user-attachments/assets/5c0e3f5b-c21b-45a0-a3e8-86e1b28cebd2" />
 首页运动与可视化图表查看
-<img width="1440" height="3200" alt="f5162ede0603ff21d67c68396c46ead7" src="https://github.com/user-attachments/assets/e5902126-64cd-4751-953e-4f5e75837aea" />
+<img width="720" height="1600" alt="f5162ede0603ff21d67c68396c46ead7" src="https://github.com/user-attachments/assets/e5902126-64cd-4751-953e-4f5e75837aea" />
 饮食记录与计划制定
-<img width="1440" height="3200" alt="a56056816169e259339ee3512a8f50ee" src="https://github.com/user-attachments/assets/a1fb14b9-e553-48ee-80b8-d12516831241" />
-<img width="1440" height="3200" alt="1a5bb7970bb9f9aa01c23c2c425671f7" src="https://github.com/user-attachments/assets/7ae266b3-2263-46aa-959f-ea432f9346dc" />
+<img width="720" height="1600" alt="a56056816169e259339ee3512a8f50ee" src="https://github.com/user-attachments/assets/a1fb14b9-e553-48ee-80b8-d12516831241" />
+<img width="720" height="1600" alt="1a5bb7970bb9f9aa01c23c2c425671f7" src="https://github.com/user-attachments/assets/7ae266b3-2263-46aa-959f-ea432f9346dc" />
 消息列表和好友列表
-<img width="1440" height="3200" alt="28402556124b2fc87b48d733ccee17e3" src="https://github.com/user-attachments/assets/100e8fbc-7afb-4a88-927c-211a2e5263cf" />
+<img width="720" height="1600" alt="28402556124b2fc87b48d733ccee17e3" src="https://github.com/user-attachments/assets/100e8fbc-7afb-4a88-927c-211a2e5263cf" />
 我的信息、动态相册记录和点赞
 ## 功能概览
 
