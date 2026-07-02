@@ -13,10 +13,13 @@
 
 <img width="360" height="800" alt="a56056816169e259339ee3512a8f50ee" src="https://github.com/user-attachments/assets/a1fb14b9-e553-48ee-80b8-d12516831241" />
 <img width="360" height="800" alt="1a5bb7970bb9f9aa01c23c2c425671f7" src="https://github.com/user-attachments/assets/7ae266b3-2263-46aa-959f-ea432f9346dc" />
+
 消息列表和好友列表
 
 <img width="360" height="800" alt="28402556124b2fc87b48d733ccee17e3" src="https://github.com/user-attachments/assets/100e8fbc-7afb-4a88-927c-211a2e5263cf" />
+
 我的信息、动态相册记录和点赞
+
 ## 功能概览
 
 - 用户认证：支持注册、登录、邮箱验证提示、密码重置邮件、登出、登录失败锁定和单设备登录检测。
